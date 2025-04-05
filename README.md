@@ -6,7 +6,7 @@ My professional experience includes:
   - Developing and implementing control algorithms for steering systems and automatic gearboxes.
   - Creating hybrid simulations (hardware and software) to test and validate system behavior.
   - Implementing motion tracking solutions and angle calculation functions to enhance EPS system precision.
-  - Working with tools like Jenkins, Tessy, Unity, and AUTOSAR.
+  - Working with tools like Jenkins, Tessy, Unity, and AUTOSAR. ✨
 
 <!--
 **pirvanines/pirvanines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
