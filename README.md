@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## My name is Ines Pirvan
 
-I’ve worked on the development and testing of complex systems for EPS (Electric Power Steering), automatic gearbox, autonomous parking and integrating real hardware with virtual environments (Unity).
+I’ve worked on developing and testing of complex systems for EPS (Electric Power Steering), automatic gearbox, autonomous parking and integrating real hardware with virtual environments (Unity).
 My professional experience includes:
   - Developing and implementing control algorithms for steering systems and automatic gearboxes.
   - Creating hybrid simulations (hardware and software) to test and validate system behavior.
